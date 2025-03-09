@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/rhushya-kc)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/Rhushya)  
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:rhushya2004@gmail.com)  
-[![Website](rhushya.netlify.app)]
+[![Website](rhushya.netlify.app)
 
 ## 🚀 Passion  
 

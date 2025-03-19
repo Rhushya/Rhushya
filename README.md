@@ -2,9 +2,9 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://rhushya.github.io/Portfolio/)  
 [![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://rhushya.netlify.app/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/rhushya-kc)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/Rhushya)  
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:rhushya2004@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/rhushya-kc/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/Rhushya/)  
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:rhushya2004@gmail.com/) 
 
 ---
 
